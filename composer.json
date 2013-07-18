@@ -13,6 +13,12 @@
             "role": "Administrator"
         }
     ],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/darkpsy3934/MTPetitions"
+		}
+	],
     "require": {
         "craftbukkit": ">=1.5.2"
     }
