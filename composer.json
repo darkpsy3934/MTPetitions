@@ -1,0 +1,19 @@
+{
+    "name": "MTPetitions",
+    "type": "plugin",
+    "description": "Petitions plugin for CraftBukkit",
+    "keywords": ["bukkit","minecraft"],
+    "homepage": "http://github.com/darkpsy3934/MTPetitions",
+    "license": "CC-BY-SA",
+    "authors": [
+        {
+            "name": "Darkpsy3934",
+            "email": "eveah.bot@gmail.com",
+            "homepage": "http://minetown.net",
+            "role": "Administrator"
+        }
+    ],
+    "require": {
+        "craftbukkit": ">=1.5.2-R4.0"
+    },
+}
