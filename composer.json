@@ -4,7 +4,7 @@
     "description": "Petitions plugin for CraftBukkit",
     "keywords": ["bukkit","minecraft"],
     "homepage": "http://github.com/darkpsy3934/MTPetitions",
-    "license": "CC-BY-SA",
+    "license": "GPLv3",
     "authors": [
         {
             "name": "Darkpsy3934",
