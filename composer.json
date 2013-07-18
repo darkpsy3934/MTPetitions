@@ -5,6 +5,7 @@
     "keywords": ["bukkit","minecraft"],
     "homepage": "http://github.com/darkpsy3934/MTPetitions",
     "license": "CC-BY-SA",
+	"version": "0.0.1-dev",
     "authors": [
         {
             "name": "Darkpsy3934",
