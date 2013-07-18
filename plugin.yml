@@ -1,0 +1,14 @@
+name: PetitionPlugin
+main: com.floyd.petition.PetitionPlugin
+version: 1.4.1
+website: http://minecraft.atc.no/plugins
+authors: [Xemnas33, Juze]
+description: This plugin is used for players to log problems, requests and complaints.
+depend: [Vault]
+commands:
+  pe:
+    description: Create and manage help requests
+    usage: /<command> (use without parameters for detailed help)
+  petition:
+    description: Create and manage help requests
+    usage: /<command> (use without parameters for detailed help)
