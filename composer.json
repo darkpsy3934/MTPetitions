@@ -1,5 +1,5 @@
 {
-    "name": "MTPetitions",
+    "name": "Minetown/MTPetitions",
     "type": "plugin",
     "description": "Petitions plugin for CraftBukkit",
     "keywords": ["bukkit","minecraft"],
